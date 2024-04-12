@@ -1,0 +1,53 @@
+[
+    {
+      "ID": "FD001",
+      "Cover": "https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI",
+      "Title": "The Art of Expression",
+      "Author": "Jane Doe",
+      "Author_img": "https://example.com/author1.jpg",
+      "Posted_Date": "April 7, 2024",
+      "Reading_Time": 10,
+      "Hashtag": ["#Expression", "#Artistry", "#Emotions"]
+    },
+    {
+      "ID": "FD002",
+      "Cover": "https://unsplash.com/photos/vintage-teal-typewriter-beside-book-jLwVAUtLOAQ",
+      "Title": "Faces of the World",
+      "Author": "John Smith",
+      "Author_img": "https://example.com/author2.jpg",
+      "Posted_Date": "April 7, 2024",
+      "Reading_Time": 15,
+      "Hashtag": ["#Diversity", "#Culture", "#Faces"]
+    },
+    {
+      "ID": "FD003",
+      "Cover": "https://unsplash.com/photos/pen-near-black-lined-paper-and-eyeglasses-q10VITrVYUM",
+      "Title": "Exploring Facial Expressions",
+      "Author": "Emily Johnson",
+      "Author_img": "https://example.com/author3.jpg",
+      "Posted_Date": "April 7, 2024",
+      "Reading_Time": 12,
+      "Hashtag": ["#FacialExpressions", "#Psychology", "#Communication"]
+    },
+    {
+      "ID": "FD004",
+      "Cover": "https://unsplash.com/photos/white-petaled-flowers-with-green-leaves-OWq8w3BYMFY",
+      "Title": "The Faces We Wear",
+      "Author": "Michael Brown",
+      "Author_img": "https://example.com/author4.jpg",
+      "Posted_Date": "April 7, 2024",
+      "Reading_Time": 8,
+      "Hashtag": ["#Identity", "#Masks", "#Perception"]
+    },
+    {
+      "ID": "FD005",
+      "Cover": "https://unsplash.com/photos/person-holding-light-bulb-fIq0tET6llw",
+      "Title": "Portraits of Emotion",
+      "Author": "Sarah Thompson",
+      "Author_img": "https://example.com/author5.jpg",
+      "Posted_Date": "April 7, 2024",
+      "Reading_Time": 20,
+      "Hashtag": ["#Feelings", "#Portraiture", "#EmotionalIntelligence"]
+    }
+  ]
+  
