@@ -1,50 +1,50 @@
 [
   {
     "id": "FD001",
-    "cover": "https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI",
+    "cover": "https://i.ibb.co/FVFRZX6/Adobe-Stock-755050220-Preview.jpg",
     "title": "The Art of Expression",
     "author": "Jane Doe",
-    "author_img": "https://example.com/author1.jpg",
+    "author_img": "../src/assets/images/boy1.png",
     "posted_date": "April 7, 2024",
     "reading_time": 10,
     "hashtag": ["#Expression", "#Artistry", "#Emotions"]
   },
   {
     "id": "FD002",
-    "cover": "https://unsplash.com/photos/vintage-teal-typewriter-beside-book-jLwVAUtLOAQ",
+    "cover": "https://i.ibb.co/GF933n9/Adobe-Stock-772583188-Preview.jpg",
     "title": "Faces of the World",
     "author": "John Smith",
-    "author_img": "https://example.com/author2.jpg",
+    "author_img": "../src/assets/images/boy2.png",
     "posted_date": "April 7, 2024",
     "reading_time": 15,
     "hashtag": ["#Diversity", "#Culture", "#Faces"]
   },
   {
     "id": "FD003",
-    "cover": "https://unsplash.com/photos/pen-near-black-lined-paper-and-eyeglasses-q10VITrVYUM",
+    "cover": "https://i.ibb.co/WKNxhg0/Adobe-Stock-780094133-Preview.jpg",
     "title": "Exploring Facial Expressions",
     "author": "Emily Johnson",
-    "author_img": "https://example.com/author3.jpg",
+    "author_img": "../src/assets/images/girl1.jpg",
     "posted_date": "April 7, 2024",
     "reading_time": 12,
     "hashtag": ["#FacialExpressions", "#Psychology", "#Communication"]
   },
   {
     "id": "FD004",
-    "cover": "https://unsplash.com/photos/white-petaled-flowers-with-green-leaves-OWq8w3BYMFY",
+    "cover": "https://i.ibb.co/0JqHWzM/Adobe-Stock-780829847-Preview.jpg",
     "title": "The Faces We Wear",
     "author": "Michael Brown",
-    "author_img": "https://example.com/author4.jpg",
+    "author_img": "../src/assets/images/girl2.jpg",
     "posted_date": "April 7, 2024",
     "reading_time": 8,
     "hashtag": ["#Identity", "#Masks", "#Perception"]
   },
   {
     "id": "FD005",
-    "cover": "https://unsplash.com/photos/person-holding-light-bulb-fIq0tET6llw",
+    "cover": "https://i.ibb.co/7VSN6NX/Adobe-Stock-774514026-Preview.jpg",
     "title": "Portraits of Emotion",
     "author": "Sarah Thompson",
-    "author_img": "https://example.com/author5.jpg",
+    "author_img": "../src/assets/images/boy1.png",
     "posted_date": "April 7, 2024",
     "reading_time": 20,
     "hashtag": ["#Feelings", "#Portraiture", "#EmotionalIntelligence"]
