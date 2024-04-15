@@ -1,7 +1,7 @@
 [
   {
     "id": "FD001",
-    "cover": "https://i.ibb.co/FVFRZX6/Adobe-Stock-755050220-Preview.jpg",
+    "cover": "../src/assets/images/1.jpg",
     "title": "The Art of Expression",
     "author": "Jane Doe",
     "author_img": "../src/assets/images/boy1.png",
@@ -11,7 +11,7 @@
   },
   {
     "id": "FD002",
-    "cover": "https://i.ibb.co/GF933n9/Adobe-Stock-772583188-Preview.jpg",
+    "cover": "../src/assets/images/2.png",
     "title": "Faces of the World",
     "author": "John Smith",
     "author_img": "../src/assets/images/boy2.png",
@@ -21,7 +21,7 @@
   },
   {
     "id": "FD003",
-    "cover": "https://i.ibb.co/WKNxhg0/Adobe-Stock-780094133-Preview.jpg",
+    "cover": "../src/assets/images/3.png",
     "title": "Exploring Facial Expressions",
     "author": "Emily Johnson",
     "author_img": "../src/assets/images/girl1.jpg",
@@ -31,7 +31,7 @@
   },
   {
     "id": "FD004",
-    "cover": "https://i.ibb.co/0JqHWzM/Adobe-Stock-780829847-Preview.jpg",
+    "cover": "../src/assets/images/4.jpg",
     "title": "The Faces We Wear",
     "author": "Michael Brown",
     "author_img": "../src/assets/images/girl2.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "id": "FD005",
-    "cover": "https://i.ibb.co/7VSN6NX/Adobe-Stock-774514026-Preview.jpg",
+    "cover": "../src/assets/images/1.jpg",
     "title": "Portraits of Emotion",
     "author": "Sarah Thompson",
     "author_img": "../src/assets/images/boy1.png",

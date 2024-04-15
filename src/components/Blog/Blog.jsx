@@ -1,10 +1,16 @@
 import PropTypes from 'prop-types';
-const Blog = ({blog}) => {
-    const {title, cover, posted_date, reading_time, author, author_img, hashtag} = blog;
+import {FaBookmark } from "react-icons/fa";
+
+const Blog = ({blog, handleAddToBookmarks}) => {
+    const {id, title, cover, posted_date, reading_time, author, author_img, hashtag} = blog;
+    const addToBookmarks = () => {
+        // Pass the blog id to the parent component's handler function
+        handleAddToBookmarks(id);
+    };
     return (
-        <div>
-            <img src={cover} alt={`cover picture of the title ${cover}`} />
-            <div className='flex justify-between'>
+        <div className='mb-20'>
+            <img className='w-full mb-8' src={cover} alt={`cover picture of the title ${cover}`} />
+            <div className='flex justify-between mb-4'>
                 <div className='flex'>
                     <img className='w-14' src={author_img} alt="" />
                     <div className='ml-6'>
@@ -14,6 +20,10 @@ const Blog = ({blog}) => {
                 </div>
                 <div>
                     <span>{reading_time} min read</span>
+                    <button 
+                    onClick={addToBookmarks}
+                    className='ml-2 text-red-600 text-2xl'
+                    ><FaBookmark></FaBookmark></button>
                 </div>
             </div>
             <h2 className='text-4xl'>{title}</h2>
